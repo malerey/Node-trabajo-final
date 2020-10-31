@@ -34,7 +34,7 @@ La API debe permitir filtrar los resultados del listado por:
 - Ciudad
 - Provincia
 - Nombre 
-- Precio por noche de habitacion disponible *(ejemplo: el usuario pide solo hoteles con habitaciones cuyo precio por noche sea menor a $1000)
+- Precio por noche de habitacion disponible *(ejemplo: el usuario pide solo hoteles con habitaciones cuyo precio por noche sea menor a $1000)*
 - Puntaje *(ejemplo: el usuario pide solo hoteles con un puntaje mayor a 3)*
 
 La API debe permitir ordenar los resultados por:
@@ -92,6 +92,7 @@ Sabemos que siempre es más motivante hacer un proyecto que te interese, por lo 
 En todos los casos te pedimos que conserves 
 - la opción de que los usuarios puedan dejar criticas. 
 - alguna data que varíe de acuerdo a otra *(ejemplo: si un restaurante agrega un plato vegano a su menú, el porcentaje de comidas veganas en relación al total de opciones ofrecidas sube)*.
+
 Si te cuesta adaptar este requerimiento a tu ejemplo, lo pensamos juntas! 
 
 ---
