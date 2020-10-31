@@ -1,0 +1,73 @@
+[
+  {
+    "id": "5f6fa5ede392b4afb5a6a3b2",
+    "nombre": "Grand Hotel Ada",
+    "ubicacion": {
+      "ciudad": "Rio Cuarto",
+      "provincia": "Cordoba"
+    },
+    "categorias": ["presidencial", "premium", "comun"],
+    "precio": {
+      "presidencial": 500,
+      "premium": 400,
+      "comun": 200
+    },
+    "habitacionesTotal": 30,
+    "habitacionesOcupadas": 15,
+    "porcentajeOcupacion": 50,
+    "puntaje": 4.9
+  },
+  {
+    "id": "5f6fa5ede392b4afb5a6a3b3",
+    "nombre": "Hotel Grand Splendid",
+    "ubicacion": {
+      "ciudad": "CABA",
+      "provincia": "CABA"
+    },
+    "categorias": ["premium", "comun"],
+    "precio": {
+      "premium": 1000,
+      "comun": 500
+    },
+    "habitacionesTotal": 300,
+    "habitacionesOcupadas": 100,
+    "porcentajeOcupacion": 33,
+    "puntaje": 4
+  },
+  {
+    "id": "5f6fa5ede392b4afb5a6a3b4",
+    "nombre": "Hotel Savoy",
+    "ubicacion": {
+      "ciudad": "Godoy Cruz",
+      "provincia": "Mendoza"
+    },
+    "categorias": ["doble", "simple", "doble deluxe", "simple deluxe"],
+    "precio": {
+      "doble": 500,
+      "simple": 200,
+      "doble deluxe": 750,
+      "simple deluxe": 400
+    },
+    "habitacionesTotal": 50,
+    "habitacionesOcupadas": 40,
+    "porcentajeOcupacion": 80,
+    "puntaje": 2.8
+  },
+  {
+    "id": "5f6fa5ede392b4afb5a6a3b5",
+    "nombre": "La casa de Lili",
+    "ubicacion": {
+      "ciudad": "Bahia Blanca",
+      "provincia": "Buenos Aires"
+    },
+    "categorias": ["doble", "simple"],
+    "precio": {
+      "doble": 2000,
+      "simple": 1500
+    },
+    "habitacionesTotal": 5,
+    "habitacionesOcupadas": 5,
+    "porcentajeOcupacion": 100,
+    "puntaje": 5
+  }
+]

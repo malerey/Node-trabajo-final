@@ -1,0 +1,19 @@
+{
+  "id": "5f6fa5ede392b4afb5a6a3b8",
+  "email": "miguel@losabuelos.com",
+  "nombre": "Miguel Abuelo",
+  "criticas": [
+    {
+      "hotel": "Grand Hotel Ada",
+      "idHotel": "5f6fa5ede392b4afb5a6a3b2",
+      "puntaje": 4.9,
+      "descripcion": "Bueno, bonito y barato"
+    },
+      {
+        "hotel": "La casa de Lili",
+        "idHotel": "5f6fa5ede392b4afb5a6a3b5",
+        "puntaje": 5,
+        "descripcion": "Todo perfecto"
+      }
+  ]
+}

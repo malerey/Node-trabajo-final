@@ -1,0 +1,59 @@
+{
+  "id": "5f6fa5ede392b4afb5a6a3b2",
+  "nombre": "Grand Hotel Ada", 
+  "ubicacion": {
+    "ciudad": "Rio Cuarto",
+    "provincia": "Cordoba"
+  },
+  "categorias": ["presidencial", "premium", "comun"],
+  "precio": {
+    "presidencial": 500,
+    "premium": 400,
+    "comun": 200
+  },
+  "habitacionesTotalPorCategoria": {
+    "presidencial": 1,
+    "premium": 9,
+    "comun": 20
+  },
+  "habitacionesOcupadasPorCategoria": {
+    "presidencial": 0,
+    "premium": 7,
+    "comun": 8
+  },
+  "porcentajeOcupacionPorCategoria": {
+    "presidencial": 0,
+    "premium": 77.7,
+    "comun": 40
+  },
+  "habitacionesTotal": 30,
+  "habitacionesOcupadas": 15,
+  "porcentajeOcupacion": 50,
+  "puntaje": 4.9,
+  "criticas": [
+    {
+      "puntaje": 4.9,
+      "descripcion": "Bueno, bonito y barato"
+    },
+    {
+      "puntaje": 5,
+      "descripcion": "Todo ok"
+    },
+    {
+      "puntaje": 4.8,
+      "descripcion": "Lindas habitaciones, lastima los TP que mandan"
+    },
+    {
+      "puntaje": 4.7,
+      "descripcion": "Excelente todo"
+    },
+    {
+      "puntaje": 5,
+      "descripcion": "Bien ubicado"
+    },
+    {
+      "puntaje": 4.7,
+      "descripcion": "Muy bueno"
+    }
+  ]
+}
